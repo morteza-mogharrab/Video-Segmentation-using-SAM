@@ -1,0 +1,5 @@
+python>=3.8
+torch>=1.7
+torchvision==0.8
+opencv-contrib-python==4.8.1.78
+opencv-python==4.8.1.78
